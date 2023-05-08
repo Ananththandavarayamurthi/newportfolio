@@ -31,6 +31,16 @@ function Projects() {
               link2="https://fluffy-naiad-0e3320.netlify.app/"
             />
           </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={money}
+              title="chatty"
+              description="I try to create a chat application using socket.io and MERN stack ."
+              link1="https://github.com/Ananththandavarayamurthi/chatty-frontend"
+              link2="https://chatty-connect-peoples.netlify.app/login"
+              
+            />
+          </Col>
           
           <Col md={4} className="project-card">
             <ProjectCard
