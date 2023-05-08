@@ -8,6 +8,7 @@ import makeup from "../../Assets/Projects/makeup.png"
 import money from "../../Assets/Projects/money.png"
 import School from "../../Assets/Projects/school.png"
 import crud from "../../Assets/Projects/crud.png"
+import chatty from "../../Assets/Projects/chatty.png"
 
 
 function Projects() {
@@ -33,7 +34,7 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={money}
+              imgPath={chatty}
               title="chatty"
               description="I try to create a chat application using socket.io and MERN stack ."
               link1="https://github.com/Ananththandavarayamurthi/chatty-frontend"
