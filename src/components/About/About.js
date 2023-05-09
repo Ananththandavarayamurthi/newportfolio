@@ -12,7 +12,7 @@ function About() {
       <Particle />
       <Container>
       <Row style={{ justifyContent: "center", position: "relative" }}>
-          <Button variant="primary" href="https://drive.google.com/file/d/195Bk5MguEf9399u2cWpMQnu_4YZeldL1/view?usp=share_link" target="_blank">
+          <Button variant="primary" href="https://drive.google.com/file/d/1TEYvtPTeb9EtTyHL3b8MRIsCnFIFsCu5/view" target="_blank">
             <AiOutlineDownload />
             &nbsp;Resume
           </Button>
