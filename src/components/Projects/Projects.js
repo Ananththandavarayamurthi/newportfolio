@@ -9,6 +9,7 @@ import money from "../../Assets/Projects/money.png"
 import School from "../../Assets/Projects/school.png"
 import crud from "../../Assets/Projects/crud.png"
 import chatty from "../../Assets/Projects/chatty.png"
+import Ecomerse from "../../Assets/Projects/Ecomerse.png"
 
 
 function Projects() {
@@ -53,6 +54,15 @@ function Projects() {
               
             />
           </Col>
+      <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Ecomerse}
+              title="BIGSHOPPER"
+              description="I created this project for Ecommerce apllication, this website maintain and shop the products in online like amzon.."
+              link1="https://github.com/Ananththandavarayamurthi/ecomese-frontend"
+              link2="https://main--big-shopper.netlify.app/"
+            />
+          </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -63,6 +73,7 @@ function Projects() {
               link2="https://studentteacherlearn.netlify.app/"
             />
           </Col>
+
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -86,15 +97,7 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={dog}
-              title="Dog Image"
-              description="I have created this website for to generate diff dog img. This website is created with basic HTML, CSS and JavaScript. This website helps to see diff breeds of dogs and dogs image."
-              link1="https://github.com/Ananththandavarayamurthi/day21-task2"
-              link2="https://golden-valkyrie-37973c.netlify.app/"
-            />
-          </Col>
+          
 
           
         </Row>
