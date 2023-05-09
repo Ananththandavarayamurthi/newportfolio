@@ -38,7 +38,7 @@ function Projects() {
               title="chatty"
               description="I try to create a chat application using socket.io and MERN stack ."
               link1="https://github.com/Ananththandavarayamurthi/chatty-frontend"
-              link2="https://chatty-connect-peoples.netlify.app/login"
+              link2="https://chatty-connect-peoples.netlify.app/"
               
             />
           </Col>
