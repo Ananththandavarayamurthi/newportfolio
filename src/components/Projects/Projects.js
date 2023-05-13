@@ -27,11 +27,11 @@ function Projects() {
           Common <strong className="purple">Credentials </strong>
         </h3>
         <p style={{ color: "white" }}>
-          ADMIN:admin@gmail.com
+          ADMIN:admin@gmail.com <br/>
           password:admin@123
         </p>
       <p style={{ color: "white" }}>
-         USER:sakthi@gmail.com
+         USER:sakthi@gmail.com<br/>
           password:sakthi@123
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
