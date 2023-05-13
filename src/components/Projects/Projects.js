@@ -23,6 +23,17 @@ function Projects() {
         <p style={{ color: "white" }}>
           Here are a few projects I've worked on recently.
         </p>
+          <h3 className="project-heading">
+          Common <strong className="purple">Credentials </strong>
+        </h3>
+        <p style={{ color: "white" }}>
+          ADMIN:admin@gmail.com
+          password:admin@123
+        </p>
+      <p style={{ color: "white" }}>
+         USER:sakthi@gmail.com
+          password:sakthi@123
+        </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
         <Col md={4} className="project-card">
             <ProjectCard
