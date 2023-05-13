@@ -63,22 +63,11 @@ function Projects() {
               title="BIGSHOPPER"
               description="I created this project for Ecommerce apllication, this website maintain and shop the products in online like amzon.."
               link1="https://github.com/Ananththandavarayamurthi/ecomese-frontend"
+              linkbe="https://github.com/Ananththandavarayamurthi/ecommerce-back-end"
               link2="https://main--big-shopper.netlify.app/"
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={School}
-              title="School manager"
-              description="I created this project for School management, this website note all the student and teachers details.and i used crud operation."
-              link1="https://github.com/Ananththandavarayamurthi/student-teacher"
-              linkbe="https://github.com/Ananththandavarayamurthi/ecommerce-back-end"
-              link2="https://studentteacherlearn.netlify.app/"
-            />
-          </Col>
-
-          
         </Row>
       </Container>
     </Container>
