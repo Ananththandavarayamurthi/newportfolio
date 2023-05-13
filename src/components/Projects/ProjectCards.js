@@ -13,7 +13,10 @@ function ProjectCards(props) {
           {props.description}
         </Card.Text>
         <Button variant="primary" href={props.link1} target="_blank">
-          <BiLinkExternal /> View github 
+          <BiLinkExternal /> View github front-End
+        </Button>
+        <Button variant="primary" href={props.linkbe} target="_blank">
+          <BiLinkExternal /> View github back-End
         </Button>
         <Button variant="primary" href={props.link2} target="_blank">
           <BiLinkExternal /> View deployment
