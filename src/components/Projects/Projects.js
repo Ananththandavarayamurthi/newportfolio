@@ -30,6 +30,7 @@ function Projects() {
               title="capacity tool office"
               description="I have created this website for manage the employee capacity it used for office use ."
               link1="https://github.com/Ananththandavarayamurthi/capstone-front-end"
+              linkbe="https://github.com/Ananththandavarayamurthi/capstone-back-end"
               link2="https://fluffy-naiad-0e3320.netlify.app/"
             />
           </Col>
@@ -39,6 +40,7 @@ function Projects() {
               title="chatty"
               description="I try to create a chat application using socket.io and MERN stack ."
               link1="https://github.com/Ananththandavarayamurthi/chatty-frontend"
+              linkbe="https://github.com/Ananththandavarayamurthi/chatappbackend"
               link2="https://chatty-connect-peoples.netlify.app/"
               
             />
@@ -50,6 +52,7 @@ function Projects() {
               title="MONEY TRACKER"
               description="I try to create a platform where you can track your income and expences it helps you to save your money and monitoring your financial statistics."
               link1="https://github.com/Ananththandavarayamurthi/money-manager-front-end"
+              linkbe="https://github.com/Ananththandavarayamurthi/moneymanager-backend"
               link2="https://money-trackering.netlify.app/"
               
             />
@@ -70,34 +73,10 @@ function Projects() {
               title="School manager"
               description="I created this project for School management, this website note all the student and teachers details.and i used crud operation."
               link1="https://github.com/Ananththandavarayamurthi/student-teacher"
+              linkbe="https://github.com/Ananththandavarayamurthi/ecommerce-back-end"
               link2="https://studentteacherlearn.netlify.app/"
             />
           </Col>
-
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={makeup}
-              title="Shoping Makeup"
-              description="I have created this project for the Makeup API. So basically this is a website which show the make up products and i add Search option in this web page."
-              link1="https://github.com/Ananththandavarayamurthi/webkata"
-              link2="https://fanciful-rabanadas-7838ca.netlify.app/"
-              />
-          </Col>
-
-          
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={weather}
-              title="Weather of all Countries"
-              description="i created this web site for Weather condition off all countries, it shows current weather of all countries  ."
-              link1="https://github.com/Ananththandavarayamurthi/openwethercountrys-task"
-              link2="https://mellifluous-manatee-c01b93.netlify.app/"
-            />
-          </Col>
-
-          
 
           
         </Row>
