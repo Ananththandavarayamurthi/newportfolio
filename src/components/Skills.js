@@ -15,7 +15,7 @@ function Skills() {
       <h1  className="project-heading">
       <Col
             md={5}
-            style={{ paddingTop: "0px", paddingBottom: "0px" ,width:"300px" }}
+            style={{ paddingTop: "0px", paddingBottom: "0px" ,width:"200px" }}
             className="about-img"
           >
             <img src={laptopImg} alt="about" className="img-fluid" />
