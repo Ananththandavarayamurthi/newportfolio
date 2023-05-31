@@ -573,6 +573,11 @@ html {
   font-size: 2.3em !important;
   font-weight: 500 !important;
   padding-top: 10px !important;
+  display: flex;
+  flex-direction: row-reverse;
+  align-content: center;
+  justify-content: center;
+  align-items: baseline;
 }
 
 .quote-card-view {
@@ -687,4 +692,8 @@ html {
   top: 0;
   background: #fff;
   border: 2px solid #14ffec;
+}
+.position{
+  display: flex;
+
 }
